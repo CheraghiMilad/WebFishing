@@ -38,22 +38,8 @@ CREATE TABLE `tbl_user` (
 --
 
 INSERT INTO `tbl_user` (`username`, `password`) VALUES
-('yyyy', 'hhhh'),
-('milad', 'cheraghi'),
-('dsdsd', 'fffff'),
-('', ''),
-('', ''),
-('mehdi', 'mehdi'),
-('milad', 'mahdavi123'),
-('tttyrytt', 'djkfjsdflkds'),
-('hgthghg', 'rtrtrtr'),
-('gregrgds', 'hfght5r5tyrey'),
-('trob', 'trob'),
-('tgbrfv', 'tgbrfv'),
-('sdsdsd', 'fsdfdsfsd'),
-('aaaaa', 'bbbbbbbbb'),
-('qqq', 'qqq'),
-('MyUser', 'MyPass');
+('Mohamad', 'microsoft'),
+('Sara', 'apple'),
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
