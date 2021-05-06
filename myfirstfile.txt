@@ -1,5 +1,0 @@
-git add .
-
-
-this file is edited
-git commit -m "Message me "
